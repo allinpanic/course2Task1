@@ -116,7 +116,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 0920;
-				ORGANIZATIONNAME = "e-Legion";
+				ORGANIZATIONNAME = vr;
 				TargetAttributes = {
 					74C29C5F201A107B004E418D = {
 						CreatedOnToolsVersion = 9.2;
@@ -303,7 +303,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "$(SRCROOT)/Course2Week3Task1/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.e-legion.Course2Week3Task1";
+				PRODUCT_BUNDLE_IDENTIFIER = com.vr.Course2Week3Task1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -318,7 +318,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "$(SRCROOT)/Course2Week3Task1/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.e-legion.Course2Week3Task1";
+				PRODUCT_BUNDLE_IDENTIFIER = com.vr.Course2Week3Task1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
